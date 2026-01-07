@@ -1,0 +1,5 @@
+{
+  "name": "DevTranslate Pro",
+  "description": "A professional developer tool that translates text and data into perfectly formatted PascalCase or camelCase identifiers, ideal for variable naming and coding tasks.",
+  "requestFramePermissions": []
+}
